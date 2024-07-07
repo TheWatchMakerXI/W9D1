@@ -1,0 +1,7 @@
+-Nmap 7.94SVN scan initiated Sun Jul 07 17:53:18 2024 as: nmap -sS -p 0-1024 -oX Ss.xml 192.168.100.101
++Nmap 7.94SVN scan initiated Sun Jul 07 17:59:14 2024 as: nmap -sS -p 0-1024 -oX Ss2.xml 192.168.100.101
+
+ 192.168.100.101:
+ PORT   STATE    SERVICE VERSION
+-80/tcp open     http
++80/tcp filtered http
